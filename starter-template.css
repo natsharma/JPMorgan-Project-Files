@@ -1,0 +1,39 @@
+
+body {
+  padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#headerDiv {
+    text-align: center;
+}
+
+
+#fileInput {
+    color: red;
+    text-align: center;
+    align-content: center;
+    display: block;
+    position: absolute;
+    text-align: right;
+}
+.inputDiv {
+    text-align: center;
+    padding: 5px;
+}
+
+#mainForm{
+    text-align: center;
+}
+.wrapper {
+    
+}
+
+#accountDiv {
+    /*visibility: hidden;*/
+}
+
+.inputField{
+    border: 2px solid black;
+    border-radius: 2px;
+}
